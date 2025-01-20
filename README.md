@@ -160,8 +160,7 @@ This project is a decentralized to-do application (dApp) that integrates blockch
 
 ## Authors
 
-- **Your Name** - Developer
-- **Contributors** - Mention contributors here
+- **Akshat Verma** - Developer
 
 ## License
 
